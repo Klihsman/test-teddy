@@ -37,11 +37,11 @@ Olá, me chamo Klihsman Freitas e este repositório é produto do teste técnico
 
 **Projetos**
 
-**Projetos React (home, hogin, navBar)**
+**Projetos React (home port - 8081, login - port 8082, navBar - port 8080)**
 
 1 - yarn install
 
-2 - yarn start
+2 - yarn start --port (valor da porta do projeto)
 
 **Projetos Angular (partners, external-Company)**
 
