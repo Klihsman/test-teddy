@@ -1,0 +1,18 @@
+[submodule "external-company"]
+	path = external-company
+	url = https://github.com/Klihsman/external-company.git
+[submodule "home"]
+	path = home
+	url = https://github.com/Klihsman/home.git
+[submodule "navbar"]
+	path = navbar
+	url = https://github.com/Klihsman/navbar.git
+[submodule "partners"]
+	path = partners
+	url = https://github.com/Klihsman/partners.git
+[submodule "login"]
+	path = login
+	url = https://github.com/Klihsman/login.git
+[submodule "root"]
+	path = root
+	url = https://github.com/Klihsman/root.git
